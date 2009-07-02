@@ -24,8 +24,7 @@ expression field is what matches against the content of posts/pages. All matches
 in the link field using the display name, target, and link template provided.
 
 **In Your Posts/Pages**
-Insert text representing the link which matches the regular expression. In the example above it would be [MyWord] or
-[MyWord2].
+Insert text representing the link which matches the regular expression.
 
 == Frequently Asked Questions ==
 
