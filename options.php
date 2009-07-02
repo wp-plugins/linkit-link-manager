@@ -9,7 +9,7 @@ $linkit_modes = array(
 
 add_action('admin_menu', 'rlink_linkit_menu');
 
-function rlink_linkit_home_link($title)
+function rlink_linkit_home_link($title = null)
 {
 	if(isset($title) != true)
 	{

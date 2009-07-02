@@ -3,7 +3,7 @@ Contributors: zach
 Donate link: http://www.codezach.com
 Tags: links, manager
 Requires at least: 2.7.1
-Tested up to: 2.7.1
+Tested up to: 2.8
 Stable tag: trunk
 
 Automatically insert links via regular expression and associative text.
@@ -19,9 +19,7 @@ Automatically insert links via regular expression and associative text. Useful f
 3. Navigate to Settings->LinkIt Options, insert links using the wizard.
 
 **Usage** 
-Go to Settings->LinkIt Options. Add/Edit/Remove links from the links using the link grid. The regular
-expression field is what matches against the content of posts/pages. All matches are replaced with the address
-in the link field using the display name, target, and link template provided.
+Go to Settings->LinkIt Options. Add/Edit/Remove links from the links using the link grid. The regular expression field is matched against the content of posts/pages. All matches are replaced with the address in the link field using the display name, target, and link template provided.
 
 **In Your Posts/Pages**
 Insert text representing the link which matches the regular expression.
