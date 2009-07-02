@@ -34,8 +34,6 @@ It won't mangle titles.
 
 = Will it mistakenly insert links randomly? =
 
-I recommend using some special characters to denote the links - in the usage
-example I used brackets ('[' and ']') to denote the links. Make sure you test your regular expressions
-to avoid inserting links errantly.
+I recommend using some special characters to denote the links - the default regex uses brackets ('[' and ']') to denote the links. Make sure you test your regular expressions to avoid inserting links errantly.
 
 == Screenshots ==
